@@ -15,8 +15,12 @@
   color: hsl(0, 0%, 100%);
 }
 
+.text:hover {
+  color: hsl(0, 0%, 74%);
+}
+
 .text:active {
-  color: hsl(0, 0%, 80%);
+  color: hsl(0, 0%, 59%);
 }
 
 .card {

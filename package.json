@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Nikita69420.github.io/Sex-Masters.",
+  "homepage": "https://nikita69420.github.io/Sex-Masters./",
   "name": "my-react-app",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
